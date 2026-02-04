@@ -1,0 +1,20 @@
+# Data directories
+data/
+*.parquet
+
+
+# Python
+__pycache__/
+
+# Environment files (keep .env.example)
+.env
+.env.local
+
+# batch files
+*.bat
+
+# csv
+*.csv
+
+# Plantri Code
+/plantri*/
