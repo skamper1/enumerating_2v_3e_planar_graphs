@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite it as below."
+authors:
+- family-names: "Kamperis"
+  given-names: "Samuel"
+title: "Enumeration of planar graphs are exactly 2-vertex connected and at least 3-edge connected."
+version: 1.0.0
+date-released: 2026-02-04
+url: "https://github.com/skamper1/enumerating_2v_3e_planar_graphs"
