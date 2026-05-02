@@ -2,6 +2,8 @@
 
 This repository contains a collection python scripts that together with the program plantri (https://users.cecs.anu.edu.au/~bdm/plantri/) by Gunnar Brinkmann and Heidi Van den Camp (University of Ghent), and Brendan McKay (Australian National University) enumerate the number of non-isomorphic planar graphs with $n$ edges that are exactly 2-vertex-connected and at least 3-edge-connected.
 
+These counts define the sequence [A393183](https://oeis.org/A393183) in the On-Line Encyclopedia of Integer Sequences (OEIS).
+
 ## Setup
 
 1. **Configure environment (optional)**: Copy `.env.example` to `.env` and customize paths:
